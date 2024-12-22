@@ -12,7 +12,7 @@ function Tritity() {
           </h3>
         </div>
         <div className="pt-[20px] pb-[60px] px-[40px]">
-          Our team of experienced and certified nutritionists will provide
+          Our team of experienced and certified Nutritionists will provide
           professional guidance and support throughout your journey. They will
           answer your questions, address your concerns, and keep you motivated
           as you work towards your goals.
@@ -27,7 +27,7 @@ function Tritity() {
         </div>
         <div className="pt-[20px] pb-[60px] px-[40px]">
           Access a vast collection of delicious and healthy recipes tailored to
-          your dietary needs. Our nutritionists will also create personalized
+          your dietary needs. Our Nutritionists will also create personalized
           meal plans, making it easier for you to stay on track and enjoy
           nutritious meals.
         </div>
@@ -41,7 +41,7 @@ function Tritity() {
         </div>
         <div className="pt-[20px] pb-[60px] px-[40px]">
           Expand your knowledge of nutrition through informative articles and
-          educational workshops. Our nutritionists will equip you with the
+          educational workshops. Our Nutritionists will equip you with the
           knowledge and tools to make informed choices for long-term success.
         </div>
       </div>

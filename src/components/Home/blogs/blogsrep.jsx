@@ -15,7 +15,7 @@ function Blogsforhome() {
         <h1 className="font-extrabold mb-[50px] text-3xl ">Our Blogs</h1>
         <p className="text-balance mb-[40px] text-center">
           Our blog is a treasure trove of informative and engaging articles
-          written by our team of nutritionists, dietitians, and wellness{" "}
+          written by our team of Nutritionists, dietitians, and wellness{" "}
           <span className="block text-balance text-center">
             experts. Here is what you can expect from our blog.
           </span>

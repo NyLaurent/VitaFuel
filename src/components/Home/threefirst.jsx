@@ -15,7 +15,7 @@ function Trinity() {
         </div>
         <div className="px-8">
           Receive a tailored nutrition plan designed specifically for your body
-          and goals. Our certified nutritionists will consider your unique
+          and goals. Our certified Nutritionists will consider your unique
           needs, dietary preferences, and health conditions to create a plan
           that suits you best.
         </div>
@@ -29,7 +29,7 @@ function Trinity() {
         </div>
         <div className="px-8">
           Effortlessly track your food intake using our user-friendly app. Our
-          nutritionists will analyze your data to provide insights into your
+          Nutritionists will analyze your data to provide insights into your
           eating habits, help you identify areas for improvement, and make
           personalized recommendations.
         </div>
@@ -43,7 +43,7 @@ function Trinity() {
         </div>
         <div className="px-8">
           Achieving sustainable results requires more than just a diet plan. Our
-          nutritionists will work with you to develop healthy habits, address
+          Nutritionists will work with you to develop healthy habits, address
           emotional eating, and provide strategies to overcome obstacles along
           the way.
         </div>

@@ -66,7 +66,7 @@ function Servicehome() {
           Welcome to Nutritionist, your partner in achieving optimal health
           through personalized nutrition coaching. Our certified{" "}
           <span className="block ml-[150px] mb-[30px]">
-            nutritionists are here to guide you on your weight loss journey.
+            Nutritionists are here to guide you on your weight loss journey.
           </span>
         </p>
       </div>
@@ -92,13 +92,13 @@ function Servicehome() {
         storyt="Collaborating for Success Story"
         pic={pi2}
         date="July 15, 2019"
-        longp="Nutritionist established partnerships with renowned health professionals, including nutritionists, dietitians, and wellness experts. These collaborations allowed us to incorporate diverse perspectives and expertise, ensuring the highest level of guidance for our clients."
+        longp="Nutritionist established partnerships with renowned health professionals, including Nutritionists, dietitians, and wellness experts. These collaborations allowed us to incorporate diverse perspectives and expertise, ensuring the highest level of guidance for our clients."
       />
       <Leftside
         storyt="Enhanced Support Story"
         pic={pic2}
         date="April 1, 2018"
-        longp="In response to the growing demand for personalized nutrition coaching, Nutritionist expanded its team of qualified nutritionists and dietitians. This milestone enabled us to provide even more individualized care and support to our clients."
+        longp="In response to the growing demand for personalized nutrition coaching, Nutritionist expanded its team of qualified Nutritionists and dietitians. This milestone enabled us to provide even more individualized care and support to our clients."
       />
       <Reftside
         storyt="Innovating for Clients Story"
@@ -130,9 +130,9 @@ function Servicehome() {
         date="January 1, 2010"
         longp="On this day, Nutritionist was born with the vision of helping individuals achieve their weight loss and health goals through personalized nutrition coaching. The founder, Sarah Mitchell, recognized the need for a sustainable and effective approach to healthy living, and thus began the journey of Nutritionist."
       />
-      <Achievments/>
-      <Proud/>
-      <Foot/>
+      <Achievments />
+      <Proud />
+      <Foot />
     </div>
   );
 }

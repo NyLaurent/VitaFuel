@@ -24,7 +24,7 @@ const Expnav = ({
   const [state, dispatch] = useReducer(reducer, {
     management: true,
     support: false,
-    nutritionist: false,
+    Nutritionist: false,
     marketing: false,
     technology: false,
     Recipe: false
@@ -61,10 +61,10 @@ const Expnav = ({
           <a href="#" onClick={(e) => handleClickPreventDefault(e, "support")}>{secondnav}</a>
         </li>
         <li
-          className={state.nutritionist ? "list-none bg-[#2C5446] px-[20px] py-[16px] rounded-lg" : "list-none"}
-          onClick={() => { handleclick("nutritionist"); handleClickTest({ id: 'Healthy Eating', category: "Support" }) }}
+          className={state.Nutritionist ? "list-none bg-[#2C5446] px-[20px] py-[16px] rounded-lg" : "list-none"}
+          onClick={() => { handleclick("Nutritionist"); handleClickTest({ id: 'Healthy Eating', category: "Support" }) }}
         >
-          <a href="#" onClick={(e) => handleClickPreventDefault(e, "nutritionist")}>{thirdnav}</a>
+          <a href="#" onClick={(e) => handleClickPreventDefault(e, "Nutritionist")}>{thirdnav}</a>
         </li>
         <li
           className={state.marketing ? "list-none bg-[#2C5446] px-[20px] py-[16px] rounded-lg" : "list-none"}

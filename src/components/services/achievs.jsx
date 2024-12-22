@@ -16,30 +16,30 @@ const Achievments = () => {
         </p>
       </div>
       <div className="flex flex-row ml-[55px]">
-      <div>
-        <Ach
-          pic={divine}
-          achievst="10,000+ Transformations"
-          paragraph="Our personalized nutrition plans have helped thousands of individuals reach their weight loss goals and maintain a healthy lifestyle."
-        />
-        <Ach
-          pic={divine2}
-          achievst="Positive Client Reviews"
-          paragraph="We have received numerous testimonials from satisfied clients who have experienced significant improvements in their health, weight, and overall well-being through our coaching program."
-        />
-      </div>
-      <div>
-        <Ach
-          pic={divine4}
-          achievst="Recognition for Excellence"
-          paragraph="Nutritionist has been recognized as a leading provider of personalized nutrition coaching, receiving accolades for our innovative approach and commitment to client success."
-        />
-        <Ach
-          pic={divine5}
-          achievst="Collaborate With Top Health Experts."
-          paragraph="Nutritionist has established partnerships with respected nutritionists, dietitians, and health experts to ensure that our clients receive the highest quality guidance and support."
-        />
-      </div>
+        <div>
+          <Ach
+            pic={divine}
+            achievst="10,000+ Transformations"
+            paragraph="Our personalized nutrition plans have helped thousands of individuals reach their weight loss goals and maintain a healthy lifestyle."
+          />
+          <Ach
+            pic={divine2}
+            achievst="Positive Client Reviews"
+            paragraph="We have received numerous testimonials from satisfied clients who have experienced significant improvements in their health, weight, and overall well-being through our coaching program."
+          />
+        </div>
+        <div>
+          <Ach
+            pic={divine4}
+            achievst="Recognition for Excellence"
+            paragraph="Nutritionist has been recognized as a leading provider of personalized nutrition coaching, receiving accolades for our innovative approach and commitment to client success."
+          />
+          <Ach
+            pic={divine5}
+            achievst="Collaborate With Top Health Experts."
+            paragraph="Nutritionist has established partnerships with respected Nutritionists, dietitians, and health experts to ensure that our clients receive the highest quality guidance and support."
+          />
+        </div>
       </div>
     </div>
   );

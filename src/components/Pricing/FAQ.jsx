@@ -10,7 +10,7 @@ const FAQ = () => {
         <p className="ml-[250px] mt-[6px]">
           We address commonly asked questions and provide comprehensive answers
           to help you navigate your way <span className="block ml-[250px]"> through your nutrition and wellness
-          journey.
+            journey.
           </span>
         </p>
       </div>
@@ -38,8 +38,8 @@ Nutrition coaching can provide personalized guidance on healthy eating habits, t
           <div className="bg-black w-[700px] ml-[50px] h-[0.2px]"></div>
           <Question
             longp="
-You'll connect with your nutritionist regularly, usually once a week or month, to track progress, adjust goals, and get ongoing support tailored to your needs."
-            Qt="How often will I have contact with my nutritionist?"
+You'll connect with your Nutritionist regularly, usually once a week or month, to track progress, adjust goals, and get ongoing support tailored to your needs."
+            Qt="How often will I have contact with my Nutritionist?"
           />
           <div className="bg-black w-[700px] ml-[50px] h-[0.2px]"></div>
           <Question
@@ -55,10 +55,10 @@ Yes, our meal plans and recipes cater to vegetarians and vegans, offering delici
           />
         </div>
         <div className="bg-[#F6FBE9] flex flex-col w-[413px] h-[400px] rounded-[12px]">
-            <img src={petals} alt="" className="w-[150px] h-[110px] mt-[60px] mx-[135px] mb-[50px]" />
-            <h1 className="text-[26px] font-semibold ml-[110px] mb-[12px]">Ask Your Question</h1>
-            <p className="font-medium ml-[70px]">feel free to ask any question on anytime</p>
-            <Link to="/contactus"><button className="bg-[#CBEA7B] mx-[139px] mt-[20px] font-semibold px-[20px] py-[14px] text-[14px] rounded-[6px;]">Ask A Question</button></Link>
+          <img src={petals} alt="" className="w-[150px] h-[110px] mt-[60px] mx-[135px] mb-[50px]" />
+          <h1 className="text-[26px] font-semibold ml-[110px] mb-[12px]">Ask Your Question</h1>
+          <p className="font-medium ml-[70px]">feel free to ask any question on anytime</p>
+          <Link to="/contactus"><button className="bg-[#CBEA7B] mx-[139px] mt-[20px] font-semibold px-[20px] py-[14px] text-[14px] rounded-[6px;]">Ask A Question</button></Link>
         </div>
       </div>
     </div>

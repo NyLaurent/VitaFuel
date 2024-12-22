@@ -9,7 +9,7 @@ import { useState } from "react";
 const Teamexp = ({ employee }) => {
   const [menuitems, setmenuitems] = useState(employee);
 
-  function filterItems({id,category}) {
+  function filterItems({ id, category }) {
     if (id === "managment") {
       setmenuitems(employee);
       return;
